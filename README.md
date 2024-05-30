@@ -1,2 +1,4 @@
+> [!IMPORTANT]
+> Work in Progress. Do not use Production Environment!
 # ActivityPub
-ActivityPub library for FastAPI.
+Library that makes it easy to create and read ActivityPub objects
